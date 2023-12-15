@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
         public static void main(String[] args) {
             // thirdPoint();
-            fourthPoint();
+            // fourthPoint();
             // fifthPoint(args);
             // sixthPoint();
             System.out.println(seventhPointFactorial(5));
