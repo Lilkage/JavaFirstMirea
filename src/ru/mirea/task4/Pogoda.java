@@ -25,7 +25,6 @@ enum TimeOfYear {
 
 public class Pogoda {
     public static void main(String[] args) {
-        // 2) Создать метод, выводящий информацию о времени года
         TimeOfYear favoriteSeason = TimeOfYear.Лето;
         System.out.println("Мое любимое время года: " + favoriteSeason);
         System.out.println("Средняя температура: " + favoriteSeason.getMiddleTemperature());
