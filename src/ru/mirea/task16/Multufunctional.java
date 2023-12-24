@@ -4,4 +4,4 @@ package ru.mirea.task16;
             return a+b;
         }
     }
-}
+
